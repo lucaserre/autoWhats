@@ -32,9 +32,9 @@ pip install pandas pywhatkit openpyxl
 
 O sistema espera um arquivo Excel com pelo menos as seguintes colunas:
 
-| nome_cliente | numero      | valor | data       |
-|--------------|-------------|-------|------------|
-| João Silva   | 21999999999 | 150   | 2025-04-10 |
+| CONTRATO  |   CESSIONÁRIO  |   CONTATO    |  PARCELAS  |
+|-----------|----------------|--------------|------------|
+|200/0588   | JOSE DAS COVES | 21999999999  |     59     |
 
 ---
 
